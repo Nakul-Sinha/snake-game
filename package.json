@@ -1,0 +1,19 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A simple snake game implemented using HTML, CSS, and JavaScript",
+  "main": "script.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {}
+}
